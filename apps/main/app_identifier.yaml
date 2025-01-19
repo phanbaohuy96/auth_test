@@ -2,9 +2,9 @@
 
 android:
   dev:
-    package: com.avnon.test.googleForm
-    name: AVNON TEST
+    package: com.test.auth
+    name: AUTH TEST
 ios:
   dev:
-    package: com.avnon.test.googleForm
-    name: AVNON TEST
+    package: com.test.auth
+    name: AUTH TEST
